@@ -14,6 +14,13 @@ This project uses two ultrasonic sensors placed at a known distance apart to cal
 - Jumper wires
 - Breadboard (optional)
 
+## Wiring Diagram
+
+![Arduino Speed Detector Wiring Diagram](wiring-diagram.png)
+
+*Wiring diagram showing connections between Arduino, HC-SR04 sensors, and buzzer*
+
+
 ## Pin Configuration
 
 | Component | Pin Type | Pin Number |
