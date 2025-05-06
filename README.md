@@ -22,7 +22,8 @@ This project uses two ultrasonic sensors placed at a known distance apart to cal
 | Sensor A  | Echo     | 10         |
 | Sensor B  | Trigger  | 11         |
 | Sensor B  | Echo     | 12         |
-| Buzzer    | Signal   | 13         |
+| Buzzer    | Signal (Longer PIN)   | 13         |
+| Buzzer    | Ground   | GND        |
 
 ## Features
 
