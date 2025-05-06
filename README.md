@@ -18,11 +18,15 @@ This project uses two ultrasonic sensors placed at a known distance apart to cal
 
 | Component | Pin Type | Pin Number |
 |-----------|----------|------------|
+| Sensor A  | VCC      | 5V         |
+| Sensor A  | GND      | GND        |
 | Sensor A  | Trigger  | 9          |
 | Sensor A  | Echo     | 10         |
+| Sensor B  | VCC      | 5V         |
+| Sensor B  | GND      | GND        |
 | Sensor B  | Trigger  | 11         |
 | Sensor B  | Echo     | 12         |
-| Buzzer    | Signal (Longer PIN)   | 13         |
+| Buzzer    | Signal (Longer PIN) | 13 |
 | Buzzer    | Ground   | GND        |
 
 ## Features
