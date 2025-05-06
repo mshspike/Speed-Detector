@@ -16,14 +16,13 @@ This project uses two ultrasonic sensors placed at a known distance apart to cal
 
 ## Pin Configuration
 
-- **Sensor A**
-  - Trigger Pin: 9
-  - Echo Pin: 10
-- **Sensor B**
-  - Trigger Pin: 11
-  - Echo Pin: 12
-- **Buzzer**
-  - Pin: 13
+| Component | Pin Type | Pin Number |
+|-----------|----------|------------|
+| Sensor A  | Trigger  | 9          |
+| Sensor A  | Echo     | 10         |
+| Sensor B  | Trigger  | 11         |
+| Sensor B  | Echo     | 12         |
+| Buzzer    | Signal   | 13         |
 
 ## Features
 
